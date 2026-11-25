@@ -1,0 +1,6 @@
+{
+  "name": "Folio — Minimalist Task Ledger",
+  "description": "A clean, minimalist full-stack To-Do List web application powered by Supabase with Butter Cream, Powder Blue, and Blood Red design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
